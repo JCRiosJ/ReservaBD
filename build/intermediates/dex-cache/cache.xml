@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\a06adac76733e058a9b3971a730209b3928991c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_c1eecd0fbfe005dad3855b83998aefbd087a4ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\ce7b32778b7e818e489a8036420ed6c3207d9c51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_b69fd19329b9c4e6c6d4f6263faece401c126228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\998949c3877ba64fc0c598922e3bec80402c3fc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_51204088b92dc6bcfe1196cdd8ad0d9d380a38ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\25596cf6ba99676930a0e5e46023a3b1b6146fda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_301b29b07c08ed96cbc34939442e6850d036bf06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\ff4a73fba9aaee9b10ff82e82314c32504ee06c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_28a784f8ae2eef719ed706f9c98502bd62e1cfb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_1161a10f3771ea85131b07017a3228cfc3fdd30c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\b4ee0259bee48497db429c5e2ccbf56acfe533a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_a6838bca6f115791e75a2f797516a8691845344c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\3a0d64a80969f6e0ad26dbbefc41d447a7a9088c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_1c4cba25c791615496dfba331ca9a0c3933d3d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a2d28374e582be32b5feb9528e26beca48cff38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\6be9955369e8ee985dc0a82b82777849a0c72345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_ba5026a366085a26bb49c525060c1521c3e6b86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\c0ae9bf3224f4757c5180f4c008383e28b875b42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_46cda10667b7885f005eab3b6d705b3fffe1763b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JCRiosJ\.android\build-cache\35edd6d36cb299aa39f36e71ce0c96869a87ed1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\ReservaBD\app\build\intermediates\pre-dexed\debug\classes_a23cabd5b17c61be5baf1363667c5c97683c8631.jar" />
+    </item>
+
+</items>
